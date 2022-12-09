@@ -1,0 +1,10 @@
+.vacancies__button-cta {
+  min-width: 200px;
+  justify-content: center;
+}
+
+@media (max-width: 1000px) {
+  .vacancies__button-cta {
+    margin-top: 20px;
+  }
+}
