@@ -20,5 +20,3 @@
 * javaScript.
 * React.
 
-test
-
