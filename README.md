@@ -19,5 +19,3 @@
 * Css.
 * javaScript.
 * React.
-
-test
