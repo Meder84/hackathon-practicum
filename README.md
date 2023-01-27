@@ -1,6 +1,6 @@
 # Hackathon-Practicum
 ## Проект: "Hackathon-Practicum"
-* [Ссылка на проект](hackathon-practicum-wine.vercel.app)
+* [Ссылка на проект](https://hackathon-practicum-wine.vercel.app/)
 * [Ссылка на анимацию](#)
 
 ### Обзор
